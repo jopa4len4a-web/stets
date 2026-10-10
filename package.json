@@ -1,0 +1,8 @@
+{
+  "name": "stress-bot",
+  "version": "1.0.0",
+  "dependencies": {
+    "mineflayer": "^4.20.0",
+    "pngjs": "^7.0.0"
+  }
+}
